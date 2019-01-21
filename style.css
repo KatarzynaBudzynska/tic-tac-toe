@@ -1,0 +1,12 @@
+.board {
+  width: 900px;
+  height: 900px;
+  background-color: gray;
+}
+.space {
+  width: 280px;
+  height: 280px;
+  float: left;
+  margin: 9px;
+  background-color: white;
+}
